@@ -3371,3 +3371,21 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.23-16.42.57:770][314]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.09.23-16.42.57:770][314]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.09.23-16.42.57:770][314]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.23-16.42.58:579][314]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.09.23-16.42.58:605][314]LogExit: Editor shut down
+[2024.09.23-16.42.58:609][314]LogExit: Transaction tracking system shut down
+[2024.09.23-16.42.58:822][314]LogExit: Object subsystem successfully closed.
+[2024.09.23-16.42.58:855][314]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.23-16.42.59:386][314]MemoryProfiler: Shutdown
+[2024.09.23-16.42.59:386][314]NetworkingProfiler: Shutdown
+[2024.09.23-16.42.59:386][314]LoadingProfiler: Shutdown
+[2024.09.23-16.42.59:386][314]TimingProfiler: Shutdown
+[2024.09.23-16.42.59:421][314]LogOpenImageDenoise: OIDN shutting down
+[2024.09.23-16.42.59:740][314]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.09.23-16.42.59:740][314]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB4EBE2C-4D1D-B18A-C683-B0A2D59BC764%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=10df4c9b428d222aaf7a7ba2f30b3109%7C03a7d1a183c94d96ad10f052c2d1aed5%7C1bf9593f-e37f-42b9-ae97-ee171b0ffae8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.09.23-16.42.59:745][314]RenderDocPlugin: plugin has been unloaded.
+[2024.09.23-16.42.59:750][314]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.09.23-16.42.59:753][314]LogPakFile: Destroying PakPlatformFile
+[2024.09.23-16.42.59:986][314]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.09.23-16.43.00:003][314]LogExit: Exiting.
+[2024.09.23-16.43.00:048][314]Log file closed, 09/23/24 18:43:00
