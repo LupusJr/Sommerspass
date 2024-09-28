@@ -72,3 +72,32 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal-specific additional entries
+
+# Ignore user-specific settings and logs
+*.ini
+*.log
+*.user
+*.userprefs
+*.userdebug
+EditorPerProjectUserSettings.ini
+
+# Ignore telemetry data
+Telemetry/
+
+# Ignore auto-generated Visual Studio/IDE files
+.vscode/
+*.csproj
+*.vcxproj
+*.props
+*.db
+*.opendb
+
+# Ignore asset registry files
+*.asset
+*.bin
+*.dat
+*.dds
+*.uasset
+*.umap
